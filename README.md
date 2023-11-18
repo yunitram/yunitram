@@ -1,4 +1,4 @@
-### Hi there my name is Martin👋 I am writing more stuff here
+### Hi there my name is Martin👋 I want to learn gamedev
 
 I am writing here to practice using github
 
