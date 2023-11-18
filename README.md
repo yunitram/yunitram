@@ -1,4 +1,6 @@
-### Hi there my name is Martin👋
+### Hi there my name is Martin👋 I am writing more stuff here
+
+I am writing here to practice using github
 
 <!--
 **yunitram/yunitram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
